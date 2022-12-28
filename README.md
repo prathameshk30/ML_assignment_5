@@ -1,8 +1,3 @@
-# ML_assignment_5
+#CS5783-Assigmnet-6
 
-This repo contains answer :-
-
-PDF
-
-
-IPYNB
+OpenCV and Kmeans algorithm fromm scratch.
